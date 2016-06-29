@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2E48EB404190B44C88B17201E054853C093DEAA8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3971AA7A8A9A3D337EC09C080B7C2D7484E38AF8" : 0,
+    "2E48EB404190B44C88B17201E054853C093DEAA8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "21E3AF83-D099-48B0-9A5A-24DB27F76199",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3971AA7A8A9A3D337EC09C080B7C2D7484E38AF8" : "prime-time-ios-0616\/PrimeTime\/autolayout-textview-ios-0616\/",
+    "2E48EB404190B44C88B17201E054853C093DEAA8" : "prime-time-ios-0616\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PrimeTime",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PrimeTime.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TiciaChance\/prime-time-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2E48EB404190B44C88B17201E054853C093DEAA8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/TiciaChance\/autolayout-textview-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3971AA7A8A9A3D337EC09C080B7C2D7484E38AF8"
+    }
+  ]
+}
